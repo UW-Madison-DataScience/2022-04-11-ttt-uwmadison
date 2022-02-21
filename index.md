@@ -15,10 +15,6 @@ locations:            # for online events, delete the second section below. for 
   - venue: "Online" 
     address: ""
 
-  - venue: "" 
-    address: "Room A, 123 Forth Street, Blimingen, Euphoria"
-    latlng: "41.7901128,-87.6007318"
-
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
