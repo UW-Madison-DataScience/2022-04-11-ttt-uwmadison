@@ -56,44 +56,35 @@ locations:            # for online events, delete the second section below. for 
 -->
 
 <p>
-<a href="{{ www.carpentries.org }}">The Carpentries</a> is a community of practice centered around teaching foundational 
-  coding and data science skills to researchers worldwide. This Instructor Training 
-  event is designed to prepare trainees to certify and participate as Carpentries 
-  Instructors. However, much of our curriculum focuses on educational principles that 
-  apply across a wide variety of contexts. We also welcome participants who do not plan 
-  to certify but simply wish to become a better teacher.
+  The course is aimed at everyone who is
+  interested in becoming a better teacher. In particular, this training
+  is aimed at those who want to become <a href="{{ site.dc_site }}">Data Carpentry</a>,
+  <a href="{{ site.lc_site }}">Library Carpentry</a>, and <a href="{{ site.swc_site }}">Software Carpentry</a>
+  Instructors, run workshops and contribute to The Carpentries training
+  materials. You don't currently have to be an instructor or a
+  teacher to attend this workshop, but you do need to be willing and
+  committed to becoming one and to improving your teaching techniques.
 </p>
-
-<p>Carpentries Instructor Training has the following goals:</p>
-  
-* Introduce you to evidence-based teaching practices.
-* Teach you how to create a positive environment for learners at your workshops.
-* Provide opportunities for you to practice and build your teaching skills.
-* Help you become integrated into the Carpentries community.
-* Prepare you to use these teaching skills in teaching Carpentries workshops.
-  
-<p> Because we have only limited time, some things are beyond the scope of this training. We will
-not be learning:</p>
-  
-* How to program in R or Python, use Git or SQL, or any of the other topics taught in  <a href="{{ site.dc_site }}">Data Carpentry</a>, 
-  <a href="{{ site.lc_site }}">Library Carpentry</a>, or 
-  <a href="{{ site.swc_site }}">Software Carpentry</a> workshops.
-* How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more).
-
 
 <p>
-Instructor Training events are hands-on throughout: short lessons alternate 
-with individual and group practical exercises, including practice teaching sessions. 
-This Instructor Training event is the first step towards certification as a 
-Carpentries Instructor. For more details on the other 3 steps, see the <a href="{{ site.training_site }}/checkout/">Checkout Instructions</a> page.
-For more information, see our <a href="{{ site.training_site }}">Instructor Training Curriculum</a>.
+  <a href="{{ site.dc_site }}">Data Carpentry</a>, <a href="{{ site.lc_site }}">Library Carpentry</a>, and 
+  <a href="{{ site.swc_site }}">Software Carpentry</a>'s mission is to
+  help scientists, researchers, and librarians get more research done in less time
+  and with less pain by teaching them basic lab skills for scientific
+  computing.  This hands-on two-day workshop covers the basics of
+  educational psychology and instructional design, and looks at how to
+  use these ideas in both intensive workshops and regular classes.
 </p>
-
-<h3>Code of Conduct</h3>
-
-All participants are required to abide by The Carpentries <a href="{{
-site.swc_site }}/conduct/">Code of Conduct</a>.
-
+<p>
+  The workshop is a mix of lectures and hands-on lessons where you
+  practice giving a short lesson using approaches learned and
+  implement some of the teaching techniques which we will discuss.
+  This is training for teaching, not technical training; you do not
+  need any particular technical background, and we will not be
+  teaching that. This workshop is based on the constantly revised and
+  updated
+ <a href="{{ site.training_site }}">curriculum</a>.
+</p>
 
 <!--
   LOCATION
@@ -143,51 +134,37 @@ Workshop organisers have checked that:
   <li>Accessible restrooms are available.</li>
 </ul>
 
-Materials will be provided in advance of the workshop. 
-If we can help make learning easier for you in any way by 
-providing additional support, accommodations, or assistance, 
-please get in touch (using contact details below) and we will attempt to provide them.
+Materials will be provided in advance of the workshop and
+large-print handouts are available if needed by notifying the
+organizers in advance.  If we can help making learning easier for
+you (e.g. sign-language interpreters, lactation facilities) please
+please get in touch (using contact details below) and we will
+attempt to provide them.
 
 {% endif %}
 
-<h3>How to Prepare for Instructor Training</h3>
-  
-Before your training, please visit our Preparing for Instructor Training page for complete instructions. A brief summary of these instructions is as follows
-<ol>
-  <li>Complete our Pre-training Survey. You will receive a custom link for your event when you receive your connection information.</li>
-  <li>Select a lesson to use for teaching practice sessions and prepare a 3 minute segment, spending no more than 20-30 minutes to prepare.</li>
-  <li>Please read the following:</li>
-    <ul>
-      <li><a href="https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
-      <li><a href="https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf">The Carpentries Annual Report</a></li>
-    </ul> 
-</ol> 
-
-<h3> Checkout: The Instructor Certification Process</h3>
-After the training event, we ask you to complete three follow-up tasks to become a certified Instructor. These requirements are detailed on our 
-  <a href="{{ site.training_site }}/checkout/">Checkout Instructions</a> page and will be discussed at our training. 
-  
-<h3>What to Bring to an In-Person Event</h3>
+<h3>Requirements</h3>
 
 Participants should bring a laptop that is Internet connected and has a
 functioning browser. If you have it, a device for recording audio and video
-(mobile phones and laptops are OK) is useful as we
+(mobile phones and laptops are OK) is useful as throughout the two days, we
 are going to record one another teaching in pairs or threes. It does not have
 to be high-quality, but it should be good enough that you can understand what
 someone is saying.
 
-<h3>Attendance and Cancellation</h3>
-Trainees who miss more than 1 hour of the training may be marked absent. 
-Instructor certification cannot be completed without full attendance at 
-an Instructor Training event. If you unexpectedly need to miss more than 
-1 hour of your event, please contact your Trainers (contact info below). 
+Please note that after this course is over, you will be asked to do
+three short follow-up exercises online in order to finish qualifying
+as an instructor: the details are available at
+<a href="{{ site.training_site }}/checkout/">{{ site.training_site }}/checkout/</a>.
+If you have any questions about the workshop, the reading material,
+or anything else, please get in touch.
 
-For events in which registration occurs through The Carpentries via Eventbrite, 
-cancellation may be performed in Eventbrite up to the start of the event. 
-Canceled seats cannot be filled after the 1 week registration deadline for these events, 
-so we ask that you only cancel if absolutely necessary.
+<h3>Code of Conduct</h3>
 
-More information on our <a href="https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html">cancellation and makeup policy</a> is available in The Carpentries Handbook.
+All participants are required to abide by The Carpentries <a href="{{
+site.swc_site }}/conduct/">Code of Conduct</a>.
+
+
 
 <h3 id="contact">Contact</h3>
 <p>
@@ -238,11 +215,8 @@ for more information.
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
 <p>
-  Please see <a href="{{ site.training_site }}">the Instructor Training Curriculum</a> for course material and sample schedule for a 2-day event.
+  Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
 </p>
-
-
-<hr/>
 
 <!--
 NOTE: This space can be customized to reflect the unique schedule of your workshop. If you would like it to display, 
