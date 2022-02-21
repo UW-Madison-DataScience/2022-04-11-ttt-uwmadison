@@ -86,7 +86,7 @@ locations:            # for online events, delete the second section below. for 
  <a href="{{ site.training_site }}">curriculum</a>.
 </p>
 <p>
-  If you are interested in becoming a Carpentries instructor and are commited to advancing your teaching skills, you can apply for this workshop using <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiQwpG95NJaAkR1bcdnbFDCvDCTcKrayqB78M82szYAxtL7A/viewform">this form</a>. For early consideration, please apply by March 17th.
+  If you are interested in becoming a Carpentries instructor and advancing your teaching skills, you can apply for this workshop using <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiQwpG95NJaAkR1bcdnbFDCvDCTcKrayqB78M82szYAxtL7A/viewform">this form</a>. For early consideration, please apply by March 17th.
 </p>
 
 <!--
