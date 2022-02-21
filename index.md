@@ -10,7 +10,7 @@ enddate: 2022-04-14        # machine-readable end date for the workshop in YYYY-
 instructor: ["Sarah Stevens", "Trisha Adamus"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 contact: ["facilitator@datascience.wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:             # optional: URL for the workshop Etherpad if there is one
-eventbrite: 274461701337           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:            # for online events, delete the second section below. for in-person events, customize the second section and delete the first section.
   - venue: "Online" 
     address: ""
@@ -84,6 +84,9 @@ locations:            # for online events, delete the second section below. for 
   teaching that. This workshop is based on the constantly revised and
   updated
  <a href="{{ site.training_site }}">curriculum</a>.
+</p>
+<p>
+  If you are interested in becoming a Carpentries instructor and are commited to advancing your teaching skills, you can apply for this workshop using <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiQwpG95NJaAkR1bcdnbFDCvDCTcKrayqB78M82szYAxtL7A/viewform">this form</a>. For early consideration, please apply by March 17th.
 </p>
 
 <!--
