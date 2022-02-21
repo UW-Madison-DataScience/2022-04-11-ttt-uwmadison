@@ -15,7 +15,7 @@ locations:            # for online events, delete the second section below. for 
   - venue: "Online" 
     address: ""
 
-  - venue: "UW-Madison" 
+  - venue: "" 
     address: "Room A, 123 Forth Street, Blimingen, Euphoria"
     latlng: "41.7901128,-87.6007318"
 
