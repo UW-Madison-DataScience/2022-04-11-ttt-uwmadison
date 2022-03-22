@@ -41,7 +41,7 @@ locations:            # for online events, delete the second section below. for 
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
   width="100%"
-  height="248px"
+  height="500px"
   scrolling="auto">
 </iframe>
 {% endif %}
